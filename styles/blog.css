@@ -1,4 +1,17 @@
-div{ 
-    background-color: brown;
-    margin: 20%;
+ .child{
+   background-color:brown;margin: 5px;padding: 2px; 
+   box-shadow:10px 15px 20px 10px  rgb(6, 87, 114);
+border:10px solid purple;
+border-radius: 10px;
+margin: 20px;  padding: 20px; 
+} 
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.jds{
+    border:2px solid rgb(10, 9, 10);
+    display:inline-block;
+}
+table, tr, td {
+    border:2px solid lightsalmon;width:100%;
 }
